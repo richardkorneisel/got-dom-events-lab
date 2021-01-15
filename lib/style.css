@@ -40,3 +40,10 @@ img {
   font-family: "Ubuntu", sans-serif;
   font-size: 18px;
 }
+
+.dead-or-alive {
+  display: block;
+  margin: 10px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+}
